@@ -1,2 +1,3 @@
 # Calculator
-Calcolatrice per semplici calcoli
+
+Calcolatrice per semplici calcoli.
